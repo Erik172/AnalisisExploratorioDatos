@@ -1,0 +1,11 @@
+empiricaldist
+janitor
+matplotlib
+numpy
+palmerpenguins
+pandas
+scipy
+seaborn
+session_info
+sklearn
+statsmodels
