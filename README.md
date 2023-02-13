@@ -1,5 +1,7 @@
 # Analisis exploratorio de datos
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Erik172/AnalisisExploratorioDatos/blob/master/analisis_exploratorio.ipynb)
+
 [Deepnote](https://deepnote.com/workspace/erik172-452dedf4-e906-4883-91a1-2b4c46b9c011/project/AnalisisExploratorioDatos-8041d9ca-efa4-475f-846e-56a11424e789/notebook/AnalisisExploratorioDatos%2Fanalisis_exploratorio-873b03aa1ba945819b018deb1c85f9b6)
 
 El análisis exploratorio de datos (EDA, por sus siglas en inglés) es un proceso de investigación de los datos que se realiza antes del análisis formal. Su objetivo es entender la distribución y las relaciones entre las variables, así como identificar patrones, tendencias y outliers (valores atípicos) en los datos.
